@@ -11,6 +11,7 @@
 ```
 image-source-base64
 ```
+with
 ``` 
 image-source: base64:/path/to/image
 ```
@@ -18,7 +19,7 @@ image-source: base64:/path/to/image
 ``` 
 hadermanager.h
 ```
-moved to path
+to path
 ``` 
 framework/graphics/shadermanager.h
 ```
