@@ -5,8 +5,6 @@
 - `UIWidget` property `qr-code` & `qr-code-border` replaced with `UIQrCode` properties `code` & `code-border`
 - `image-source-base64` replaced with `image-source: base64:/path/to/image`
 - `#include "shadermanager.h"` moved to `#include <framework/graphics/shadermanager.h>`
-| Breaking API Changes                                                        |
-|:----------------------------------------------------------------------------|
 
 | dato         | Breaking Api Changes                                                              | Branch  | stay blessed   |
 |:-------------|:----------------------------------------------------------------------------------|:----------|:-------------|
@@ -14,3 +12,4 @@
 | x.x.x        | [![property](https://img.shields.io/badge/UIQr-properties-green)]()               | replaced  |              |
 | x.x.x        | [![property](https://img.shields.io/badge/QRBorder-propeties-green)]()            | property  |              |
 | x.x.x        | [![property](https://img.shields.io/badge/Shadermanager-included-green)]()        |    v8     |              |
+##include "shadermanager.h"` moved to `#include <framework/graphics/shadermanager.h>`
