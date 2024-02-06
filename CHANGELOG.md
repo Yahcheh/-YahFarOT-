@@ -8,10 +8,10 @@
 | Breaking API Changes                                                        |
 |:----------------------------------------------------------------------------|
 
-| dato       | Breaking Api Changes                                                                | Branch  | stay blessed   |
-|:-----------|:------------------------------------------------------------------------------------|:--------|:---------------|
-| **05.12.2023 | [![property](https://img.shields.io/badge/UIWidget-properties-green)]()           | develop |                |
-| x.x.x        | [![property](https://img.shields.io/badge/UIQr-properties-green)]()               | github  |                |
-| x.x.x        | [![property](https://img.shields.io/badge/QRBorder-propeties-green)]              | master  |                |
-| x.x.x        | [![property](https://img.shields.io/badge/Shadermanager-included-green)]()        | v8      |                |
+| dato         | Breaking Api Changes                                                              | Branch  | stay blessed   |
+|:-------------|:----------------------------------------------------------------------------------|:----------|:-------------|
+| **05.12.2023 | [![property](https://img.shields.io/badge/UIWidget-properties-green)]()           | OTClient  |              |
+| x.x.x        | [![property](https://img.shields.io/badge/UIQr-properties-green)]()               | replaced  |              |
+| x.x.x        | [![property](https://img.shields.io/badge/QRBorder-propeties-green)]              | property  |              |
+| x.x.x        | [![property](https://img.shields.io/badge/Shadermanager-included-green)]()        |    v8     |              |
 | x.x.x        | 
