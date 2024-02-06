@@ -6,5 +6,4 @@
 - `image-source-base64` replaced with `image-source: base64:/path/to/image`
 - `#include "shadermanager.h"` moved to `#include <framework/graphics/shadermanager.h>`
 
-| [![property](https://img.shields.io/badge/UIWidget-property-green)]() | [![](https://img.shields.io/badge/qr-code-qr-code-border-green)] 
-()[![replaced](https://img.shields.io/badge/with-UIQrCode-green)]() | [![properties](https://img.shields.io/badge/code-code_border-green)]()  [![properties](https://img.shields.io/badge/#include-shadermanage-green)]() 
+| [![property](https://img.shields.io/badge/UIWidget-property-green)]() | [![property](https://img.shields.io/badge/UIWidget-property-green)]() | [![property](https://img.shields.io/badge/QRBorder-Code-green)]  [![property](https://img.shields.io/badge/Shadermanager-included-green)]() |
