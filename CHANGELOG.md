@@ -5,3 +5,6 @@
 - `UIWidget` property `qr-code` & `qr-code-border` replaced with `UIQrCode` properties `code` & `code-border`
 - `image-source-base64` replaced with `image-source: base64:/path/to/image`
 - `#include "shadermanager.h"` moved to `#include <framework/graphics/shadermanager.h>`
+
+| [![UIWidget](https://img.shields.io/badge/text-text-gray)]() | [![qr-code](https://img.shields.io/badge/text-text-gray)]()[![UIQrCode](https://img.shields.io/badge/text-text-gray)]() | [![code-border](https://img.shields.io/badge/text-text-gray)]() |
+| [![UIWidget](https://img.shields.io/badge/text-text-gray)]() | [![UIWidget](https://img.shields.io/badge/text-text-gray)]() | [![UIWidget](https://img.shields.io/badge/text-text-gray)]() 
