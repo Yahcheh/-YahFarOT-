@@ -8,7 +8,7 @@
 | Breaking API Changes                                                        |
 |:----------------------------------------------------------------------------|
 
-| dato         | # Breaking Api Changes                                                            | Branch  | stay blessed   |
+| dato         | Breaking Api Changes                                                              | Branch  | stay blessed   |
 |:-------------|:----------------------------------------------------------------------------------|:----------|:-------------|
 | **05.12.2023 | [![property](https://img.shields.io/badge/UIWidget-properties-green)]()           | OTClient  |              |
 | x.x.x        | [![property](https://img.shields.io/badge/UIQr-properties-green)]()               | replaced  |              |
