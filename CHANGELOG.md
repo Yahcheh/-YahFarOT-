@@ -13,7 +13,7 @@ image-source-base64
 ```
 with
 ``` 
-image-source: base64:/path/to/image
+base64:/path/to/image, allowing apng.
 ```
 ##include
 ``` 
