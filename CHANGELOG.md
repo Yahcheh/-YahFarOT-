@@ -8,17 +8,17 @@
 | x.x.x        | [![property](https://img.shields.io/badge/Shadermanager-included-green)]()        |    v8     |              |
 
 ##Replacement
-``` json
+```
 image-source-base64
 ```
-``` json
+``` 
 image-source: base64:/path/to/image
 ```
 ##include
-``` json
+``` 
 hadermanager.h
 ```
 moved to path
-``` json
+``` 
 framework/graphics/shadermanager.h
 ```
