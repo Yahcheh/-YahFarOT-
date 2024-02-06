@@ -16,7 +16,7 @@ with
 base64:/path/to/image, allowing apng.
 ```
 ##include
-``json
+```json
 hadermanager.h
 ```
 to path
