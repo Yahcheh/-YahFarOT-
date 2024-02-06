@@ -7,7 +7,11 @@
 - `#include "shadermanager.h"` moved to `#include <framework/graphics/shadermanager.h>`
 | Breaking API Changes                                                        |
 |:----------------------------------------------------------------------------|
-| [![property](https://img.shields.io/badge/UIWidget-properties-green)]()     |
-| [![property](https://img.shields.io/badge/UIQr-properties-green)]()         |
-| [![property](https://img.shields.io/badge/QRBorder-propeties-green)]        |
-| [![property](https://img.shields.io/badge/Shadermanager-included-green)]()  |
+
+| dato       | Breaking Api Changes                                                                | Branch  | stay blessed   |
+|:-----------|:------------------------------------------------------------------------------------|:--------|:---------------|
+| **05.12.2023 | [![property](https://img.shields.io/badge/UIWidget-properties-green)]()           | develop |                |
+| x.x.x        | [![property](https://img.shields.io/badge/UIQr-properties-green)]()               | github  |                |
+| x.x.x        | [![property](https://img.shields.io/badge/QRBorder-propeties-green)]              | master  |                |
+| x.x.x        | [![property](https://img.shields.io/badge/Shadermanager-included-green)]()        | v8      |                |
+| x.x.x        | 
